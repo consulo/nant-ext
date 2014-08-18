@@ -27,7 +27,6 @@ using System.Reflection;
 using System.Security;
 using System.Security.Permissions;
 using System.Text;
-using System.Windows.Forms;
 using System.Xml;
 
 namespace NAnt.Consulo.Ext
